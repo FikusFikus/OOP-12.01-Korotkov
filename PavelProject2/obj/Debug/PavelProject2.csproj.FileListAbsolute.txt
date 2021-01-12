@@ -1,0 +1,7 @@
+C:\Users\79260\source\repos\PavelProject2\PavelProject2\bin\Debug\PavelProject2.exe.config
+C:\Users\79260\source\repos\PavelProject2\PavelProject2\bin\Debug\PavelProject2.exe
+C:\Users\79260\source\repos\PavelProject2\PavelProject2\bin\Debug\PavelProject2.pdb
+C:\Users\79260\source\repos\PavelProject2\PavelProject2\obj\Debug\PavelProject2.csprojAssemblyReference.cache
+C:\Users\79260\source\repos\PavelProject2\PavelProject2\obj\Debug\PavelProject2.csproj.CoreCompileInputs.cache
+C:\Users\79260\source\repos\PavelProject2\PavelProject2\obj\Debug\PavelProject2.exe
+C:\Users\79260\source\repos\PavelProject2\PavelProject2\obj\Debug\PavelProject2.pdb
